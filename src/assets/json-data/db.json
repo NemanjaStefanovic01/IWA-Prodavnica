@@ -1,0 +1,43 @@
+{
+    "product": [
+        { "id": 1, 
+          "title": "Slusalice 1", 
+          "category_id": 2,
+          "description": "Opis slusalica",
+          "price": 1000,
+          "is_avaliable": true,
+          "rating": 4,
+          "reviews": 210,
+          "vendor_name": "Prodavac 1",
+          "warrenty": 2 
+          },
+      {   "id": 2, 
+          "title": "Zvucnik 1", 
+          "category_id": 2,
+          "description": "Opis zvucnika",
+          "price": 2541,
+          "is_avaliable": true,
+          "rating": 3,
+          "reviews": 100,
+          "vendor_name": "Prodavac 2",
+          "warrenty": 1 
+          },
+      {   "id": 3, 
+          "title": "Sijalica", 
+          "category_id": 2,
+          "description": "Opis sijalice",
+          "price": 100,
+          "is_avaliable": true,
+          "rating": 5,
+          "reviews": 50,
+          "vendor_name": "Prodavac 5",
+          "warrenty": 2 
+          }
+                  
+  
+      ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
